@@ -1,5 +1,4 @@
-## Linkai Chen
-## 陈林凯
+### Linkai Chen    陈林凯
 PhD Student
 
 1、Nanjing University, School of Electronic Science and Engineering, Xianlin Road No.163, Nanjing, China, 210023
@@ -12,6 +11,8 @@ Email: clk@jsut.edu.cn
 My research interests include Computer Vision and Deep Learning.
 
 ---
+###News
+###Publications
 
 
 You can use the [editor on GitHub](https://github.com/linkboy1980/linkboy1980.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
