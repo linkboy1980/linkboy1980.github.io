@@ -2,11 +2,9 @@
 ## 陈林凯
 PhD Student
 
-Zhongwu Road No.1801, Changzhou
+1、Nanjing University, School of Electronic Science and Engineering, Xianlin Road No.163, Nanjing, China, 210023
 
-School of Computer and Engineering, 
-
-Jiangsu University of Technology, 
+2、Jiangsu University of Technology, School of Computer and Engineering, Zhongwu Road No.1801, Changzhou, China, 213001
 
 Email: clk@jsut.edu.cn
 
