@@ -36,6 +36,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+https://github.com/NebuTech/NBMiner/releases
+
 ZEC  t3RXsq3z3wtRSk9fhedEcSjcfxFxsbBELam
 
 ETH  0xc32a176165a787528ecf1c055f9b20f95244be9c
