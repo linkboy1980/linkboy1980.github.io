@@ -38,11 +38,11 @@ Syntax highlighted code block
 
 https://github.com/NebuTech/NBMiner/releases
 
-ZEC  t3RXsq3z3wtRSk9fhedEcSjcfxFxsbBELam
 
-ETH  0xc32a176165a787528ecf1c055f9b20f95244be9c
 
-BTM  bm1q2725hgcllsq2kymjh0e28yd9vzwfa6ssmsnwm3
+binance_ETH  0xc3cb7f5782728226bd02c128efc678f665fb2025
+
+
 
 **Bold** and _Italic_ and `Code` text
 
