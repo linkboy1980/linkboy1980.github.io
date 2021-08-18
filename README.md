@@ -42,6 +42,13 @@ https://github.com/NebuTech/NBMiner/releases
 
 binance_ETH  0xc3cb7f5782728226bd02c128efc678f665fb2025
 
+chia
+
+b8e8d53e53d7d536933fbbb1d2023c80c20d267da1a65c0be28db1fe5596e9dd7267bd954663f23b0bd892d35c5779ac
+
+pool contract address 
+xch17jyy7hz5en5ac6dx09q73ajljxckjy6pma39jlsmqws6cf63fa5s64d4l6
+
 
 
 **Bold** and _Italic_ and `Code` text
